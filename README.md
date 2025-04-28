@@ -14,7 +14,9 @@ Saya selalu semangat mengahadapi hal baru
 - Office
 - c
 - c++
-- java.
+- c#
+- java
+- Python
 
 ## 🤖Proyek Saya :
 Saya telah berkontribusi dalam pembuatan :
